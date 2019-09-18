@@ -1,4 +1,4 @@
-## Laravel 5 example with Crud operation ##
+## Laravel 5.8 example with Crud operation ##
 
 For Laravel 5.8 improved version look at [this repository](https://github.com/tbsphpdev/Laraval-5.8-Admin-Authentication-And-CRUD-Opration-Demo).
 
