@@ -2,7 +2,6 @@
 
 For Laravel 5.8 improved version look at [this repository](https://github.com/tbsphpdev/Laraval-5.8-Admin-Authentication-And-CRUD-Opration-Demo).
 
-**Laravel 5 example with Crud operation** is a tutorial application for Laravel 5.8.
 ### Requirements ###
 * **OS:** Ubuntu 16.04 LTS or higher / Windows 7 or Higher (WAMP / XAMP).
 * **SERVER:** Apache 2 or NGINX.
